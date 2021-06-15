@@ -1,0 +1,16 @@
+#Tue Jun 15 23:07:40 ICT 2021
+path.4=5/classes.dex
+path.3=3/classes.dex
+path.2=1/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.4=D\:\\YUSRIL\\TUGAS\\Yusril Hidayat(11950111753)-Pemrograman bergerak\\Doa-Sehari-hari-main\\nabi-dan-rasul\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+base.3=D\:\\YUSRIL\\TUGAS\\Yusril Hidayat(11950111753)-Pemrograman bergerak\\Doa-Sehari-hari-main\\nabi-dan-rasul\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
+base.2=D\:\\YUSRIL\\TUGAS\\Yusril Hidayat(11950111753)-Pemrograman bergerak\\Doa-Sehari-hari-main\\nabi-dan-rasul\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.1=D\:\\YUSRIL\\TUGAS\\Yusril Hidayat(11950111753)-Pemrograman bergerak\\Doa-Sehari-hari-main\\nabi-dan-rasul\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=D\:\\YUSRIL\\TUGAS\\Yusril Hidayat(11950111753)-Pemrograman bergerak\\Doa-Sehari-hari-main\\nabi-dan-rasul\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.4=classes5.dex

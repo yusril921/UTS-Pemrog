@@ -1,0 +1,2 @@
+com/project/doaharian/BuildConfig.java
+ com.project.doaharian.BuildConfig
